@@ -101,25 +101,6 @@ Enter 5 to Exit
 
 ---
 
-## ⚠️ Notes / Improvements
-
-* The exit message currently shows `"invalid number"` instead of a proper exit message
-* No input validation for non-integer values
-* Data is not stored permanently (no database/file handling)
-* PIN input is visible (can be improved using hidden input)
-
----
-
-## 🚀 Future Enhancements
-
-* Add file/database storage
-* Mask PIN input
-* Add transaction history
-* Support multiple accounts
-* Improve UI (CLI or GUI)
-
----
-
 ## 📄 License
 
 This project is open-source and free to use for learning purposes.
